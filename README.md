@@ -23,11 +23,17 @@
 Результат работы можно увидеть на скриншотах:
 
 ![home](https://github.com/barmoleq/severstal/blob/master/img/2023-10-06_14-46-15.png)
+
 ![home](https://github.com/barmoleq/severstal/blob/master/img/2023-10-06_14-48-44.png)
+
 ![home](https://github.com/barmoleq/severstal/blob/master/img/2023-10-06_14-49-40.png)
+
 ![home](https://github.com/barmoleq/severstal/blob/master/img/2023-10-06_14-50-04.png)
+
 ![home](https://github.com/barmoleq/severstal/blob/master/img/2023-10-06_14-50-24.png)
+
 ![home](https://github.com/barmoleq/severstal/blob/master/img/2023-10-06_14-50-37.png)
+
 ----
 Работу выполнял Быченко Дмитрий Андреевич
 Email: bychenko-work@mail.ru
