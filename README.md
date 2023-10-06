@@ -21,6 +21,7 @@
 ----
 ### Интерфейс
 Результат работы можно увидеть на скриншотах:
+
 ![home](https://github.com/barmoleq/severstal/blob/master/img/2023-10-06_14-46-15.png)
 ![home](https://github.com/barmoleq/severstal/blob/master/img/2023-10-06_14-48-44.png)
 ![home](https://github.com/barmoleq/severstal/blob/master/img/2023-10-06_14-49-40.png)
